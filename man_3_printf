@@ -259,7 +259,7 @@ To print the values of LONG_MAX and LONG_MIN aligned and
 left-justified with a width of 30:
 
 .RS
-#include "holberton.h"
+#include "main.h"
 
 #include <limits.h>
 
